@@ -1,3 +1,5 @@
+**NOTE: Use this repo with  _ec2-setup-using-terraform_ repository. As Backend (Bucket and DynamoDB) are configured in this repo**
+
 This repository demonstrates state locking in Terraform using S3 and DynamoDB.
 
 **Contents:**
